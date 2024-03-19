@@ -1,0 +1,2 @@
+s=intpu()
+print(list(i for i in s.split() if len(i)%2==0))
